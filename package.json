@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks-graph",
+  "version": "0.0.0",
+  "description": "React Hooks Data Flow Dependency Graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonpetkoff/react-hooks-graph.git"
+  },
+  "author": "Anton Petkov (anton.petkoff@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonpetkoff/react-hooks-graph/issues"
+  },
+  "homepage": "https://github.com/antonpetkoff/react-hooks-graph#readme",
+  "dependencies": {
+    "esprima": "^4.0.1",
+    "esquery": "^1.0.1"
+  }
+}
